@@ -1,6 +1,8 @@
 # C-Programs
 
-This repository contains the programs writtened in C Language. 
+This repository contains the programs written in C Language. 
+
+Difficulty level - Beginner to Advanced
 
 ## TOPICS
 1) Input and Output
