@@ -28,9 +28,9 @@ This repository contains the programs writtened in C Language.
 9) Structures - https://www.geeksforgeeks.org/structures-c/
 10) File Handling - https://www.geeksforgeeks.org/basics-file-handling-c/
 
-### Thanks
-Regards -
-[Ruban Gino Singh](www.rubangino.in)
+### Repository by
+
+[Ruban Gino Singh](https://www.linkedin.com/in/ruban-gino-singh/)
 
 Website - [www.rubangino.in](www.rubangino.in)
 
