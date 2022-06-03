@@ -2,19 +2,25 @@
 
 This repository contains the programs written in C Language. 
 
-Difficulty level - Beginner to Advanced
+**C Language** - C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. 
+
+For more...
+
+[![C-Language](https://img.shields.io/badge/.-Wikipedia-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+**Difficulty level** - Beginner to Advanced
 
 ## TOPICS
-1) Input and Output
-2) Operators
-3) Conditional Statements 
-4) Looping Statements
-5) Arrays
-6) String Operations
-7) User Defined Functions
-8) Usage Of Pointers
-9) Structures
-10) File Handling
+1) [Input and Output](/1_Input_and_output)
+2) [Operators](/2_Operators)
+3) [Conditional Statements](/3_Conditional_statements)
+4) [Looping Statements](/4_Looping_statements)
+5) [Arrays](/5_Arrays)
+6) [String Operations](/6_String_Operations)
+7) [User Defined Functions](7_User_Defined_functions)
+8) [Usage Of Pointers](8_Usage_of_Pointers)
+9) [Structures](9_Structures)
+10) [File Handling](10_File_Handling)
 
 
 ## Reference Links
@@ -30,9 +36,10 @@ Difficulty level - Beginner to Advanced
 9) Structures - https://www.geeksforgeeks.org/structures-c/
 10) File Handling - https://www.geeksforgeeks.org/basics-file-handling-c/
 
-### Repository by
 
-[Ruban Gino Singh](https://www.linkedin.com/in/ruban-gino-singh/)
+### Contact
 
-Website - [www.rubangino.in](www.rubangino.in)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
+
 
