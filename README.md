@@ -69,7 +69,7 @@ Pointers, Passing pointers to functions, Pointers and one dimensional arrays, Dy
 
 <hr/>
 
-### Support Me By Starring ⭐ Some Of My Repositories
+### Star ⭐ this repository for Future use :)
 
 Click below to gift a book to me.
 
