@@ -1,4 +1,4 @@
-# C-Programs
+# C-Programs 🖥️
 
 This repository contains the programs written in C Language. 
 
@@ -10,7 +10,7 @@ For more...
 
 **Difficulty level** - Beginner to Advanced
 
-## TOPICS
+## TOPICS 📄
 1) [Input and Output](/1_Input_and_output)
 2) [Operators](/2_Operators)
 3) [Conditional Statements](/3_Conditional_statements)
@@ -22,7 +22,7 @@ For more...
 9) [Structures](9_Structures)
 10) [File Handling](10_File_Handling)
 
-## Modules
+## Modules 📂
 
 ### Molude 1: Introduction to programming
 
@@ -48,7 +48,7 @@ Functions, Overview, Defining a function, Accessing a function, Function prototy
 
 Pointers, Passing pointers to functions, Pointers and one dimensional arrays, Dynamic memory allocation, Operations on pointers, Struture, Processing a structure, Array of structures, Structures and pointers, Self-referential structures, File handling.
 
-## Reference Links
+## Reference Links 📚
 
 1) Input Output - https://www.geeksforgeeks.org/basic-input-and-output-in-c/
 2) Operators - https://www.geeksforgeeks.org/operators-c-c/
@@ -61,16 +61,19 @@ Pointers, Passing pointers to functions, Pointers and one dimensional arrays, Dy
 9) Structures - https://www.geeksforgeeks.org/structures-c/
 10) File Handling - https://www.geeksforgeeks.org/basics-file-handling-c/
 
-### Contact
+<hr/>
+
+## Contact ☎️📞
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
 
 <hr/>
 
 ### Star ⭐ this repository for Future use :)
 
-Click below to gift a book to me.
+Click below to gift🎁 a book to me.
 
 [![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)
 ](https://bit.ly/3M5jxLd)
