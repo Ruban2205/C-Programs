@@ -10,6 +10,18 @@ For more...
 
 **Difficulty level** - Beginner to Advanced
 
+## TOPICS
+1) [Input and Output](/1_Input_and_output)
+2) [Operators](/2_Operators)
+3) [Conditional Statements](/3_Conditional_statements)
+4) [Looping Statements](/4_Looping_statements)
+5) [Arrays](/5_Arrays)
+6) [String Operations](/6_String_Operations)
+7) [User Defined Functions](7_User_Defined_functions)
+8) [Usage Of Pointers](8_Usage_of_Pointers)
+9) [Structures](9_Structures)
+10) [File Handling](10_File_Handling)
+
 ## Modules
 
 ### Molude 1: Introduction to programming
@@ -35,19 +47,6 @@ Functions, Overview, Defining a function, Accessing a function, Function prototy
 ### Module 6: Data handling
 
 Pointers, Passing pointers to functions, Pointers and one dimensional arrays, Dynamic memory allocation, Operations on pointers, Struture, Processing a structure, Array of structures, Structures and pointers, Self-referential structures, File handling.
-
-## TOPICS
-1) [Input and Output](/1_Input_and_output)
-2) [Operators](/2_Operators)
-3) [Conditional Statements](/3_Conditional_statements)
-4) [Looping Statements](/4_Looping_statements)
-5) [Arrays](/5_Arrays)
-6) [String Operations](/6_String_Operations)
-7) [User Defined Functions](7_User_Defined_functions)
-8) [Usage Of Pointers](8_Usage_of_Pointers)
-9) [Structures](9_Structures)
-10) [File Handling](10_File_Handling)
-
 
 ## Reference Links
 
