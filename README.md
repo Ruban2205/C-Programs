@@ -4,9 +4,7 @@ This repository contains the programs written in C Language.
 
 **C Language** - C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. 
 
-For more...
-
-[![C-Language](https://img.shields.io/badge/.-Wikipedia-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C-Language](https://img.shields.io/badge/-Wikipedia-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 **Difficulty level** - Beginner to Advanced
 
