@@ -1,6 +1,6 @@
 # C-Programs 🖥️
 
-This repository contains the programs written in C Language. 
+Hello 👋 programmers, developers, and students. Are you trying to find the greatest C programs for practice programming language? You can find a [repository](https://github.com/Ruban2205/C-Programs) here. This repository contains a variety of C programmes that illustrate basic to complex programming concepts. This repository was created with love and effort to give students the best, most easily understood concepts possible. It contains ten distinct concepts, each with two to five understandable sample programmes. If anyone encounters any faults or errors while browsing the repository. Please let me know by contacting me at info@rubangino.in. I'll offer the possibility to work with this repository 🤝.
 
 **C Language** - C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. 
 
