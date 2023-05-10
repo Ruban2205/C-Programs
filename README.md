@@ -46,6 +46,10 @@ Functions, Overview, Defining a function, Accessing a function, Function prototy
 
 Pointers, Passing pointers to functions, Pointers and one dimensional arrays, Dynamic memory allocation, Operations on pointers, Struture, Processing a structure, Array of structures, Structures and pointers, Self-referential structures, File handling.
 
+## LICENCE 
+
+This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
+
 ## Reference Links 📚
 
 1) Input Output - https://www.geeksforgeeks.org/basic-input-and-output-in-c/
