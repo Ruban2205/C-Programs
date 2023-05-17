@@ -1,4 +1,4 @@
-# C-Programs 👨‍💻
+# 💻 C-Programs
 
 Welcome to the C-Programs repository! This repository is a collection of various C programs created by [www.rubangino.in](https://rubangino.in/). It serves as a resource for learning and understanding different programming concepts, algorithms, and data structures using the C programming language. 
 
