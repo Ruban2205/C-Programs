@@ -73,7 +73,7 @@ This README file provides an overview of the C-Programs repository, its purpose,
 
 <hr/>
 
-## Contact ☎️📞
+## 📞 Contact
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
