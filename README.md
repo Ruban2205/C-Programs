@@ -79,8 +79,6 @@ This README file provides an overview of the C-Programs repository, its purpose,
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
 
-<hr/>
-
 ### Star ⭐ this repository for Future use :)
 
 Click below to gift🎁 a book to me.
