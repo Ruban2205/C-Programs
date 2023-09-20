@@ -52,7 +52,7 @@ The maintainers of this repository will review your contribution, provide feedba
 
 ## 📃 License 
 
-The programs in this repository are provided under the <ins>**MIT License**</ins>. You are free to use, modify, and distribute the code for personal and commercial purposes. However, it would be appreciated if you provide attribution to the original author, Ruban2205, and include a link to this repository. Please refer to the [LICENCE](/LICENCE) file for more details. 
+The programs in this repository are provided under the <ins>**MIT License**</ins>. You are free to use, modify, and distribute the code for personal and commercial purposes. However, it would be appreciated if you provide attribution to the original author, Ruban2205, and include a link to this repository. Please refer to the [LICENSE](/LICENSE) file for more details. 
 
 ## 📚 Reference Links 
 
